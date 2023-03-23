@@ -16,7 +16,7 @@ while True:
  elif a.lower() in bye:
   botans = ["sad to see you go :(","bye","miss you"]
   print('Bot said - '+random.choice(botans)+'\n')
- elif a.lower() in howare:
+ elif a.lower() in how are:
   botans = ["I am fine ,thanks ","Happy","I am good"]
   print('Bot said -'+ random.choice(botans)+'\n')
  elif a.lower() in name:
