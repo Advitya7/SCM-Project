@@ -10,7 +10,7 @@ print("*******\n")
 #Main program
 while True:
  a = input('User said -')
- if a.lower() in hellow:
+ if a.lower() in hello:
   botans = ["Hello !","hi","hi there","welcome"]
   print('Bot said - '+random.choice(botans)+'\n')
  elif a.lower() in bye:
