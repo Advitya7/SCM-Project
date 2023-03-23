@@ -3,7 +3,7 @@ import random
 hello = ["hi","is anyone there?", "hello", "good day","hello there"]
 bye = ["see ya", "see you later","bye" ,"goodbye", "i am Leaving", "have a Good day"]
 how are = ["how are you","whats up","how you doing"]
-name = ["whats your name","what is your name","do you have any name","what should i call you","name"]
+name = ["whats your name","what's your name","do you have any name","what should i call you","name"]
 menu = ["i want to buy something", "what is on the menu", "what do you reccommend?", "could i get something to eat"]
 hours = ["when are you guys open", "what are your hours", "hours of operation","time","work time","time period"]
 print("*******\n")
